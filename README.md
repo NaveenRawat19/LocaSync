@@ -1,2 +1,2 @@
-# LocaSync
-Real time group location tracking system
+# SyncFlix
+Real time Group Streaming Platform

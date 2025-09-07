@@ -1,0 +1,6 @@
+common_lib/.env
+common_lib/__pycache__/
+upload_storage_service/venv/
+user_service/venv/
+video_stream_service/venv/
+chat_service/venv/
