@@ -1,2 +1,2 @@
 # LocaSync
-Real time group location tracking system ..
+Real time group streaming Platform
