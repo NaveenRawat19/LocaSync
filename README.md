@@ -1,2 +1,2 @@
 # SyncFlix
-Real time Group Streaming Platform
+Real time group streaming Platform
