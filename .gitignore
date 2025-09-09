@@ -1,6 +1,7 @@
-common_lib/.env
-common_lib/__pycache__/
-upload_storage_service/venv/
-user_service/venv/
-video_stream_service/venv/
-chat_service/venv/
+server/common_lib/.env
+server/common_lib/__pycache__/
+server/upload_storage_service/venv/
+server/user_service/venv/
+server/video_stream_service/venv/
+server/chat_service/venv/
+server/chat_service/app/__pycache__/
