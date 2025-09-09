@@ -4,3 +4,4 @@ upload_storage_service/venv/
 user_service/venv/
 video_stream_service/venv/
 chat_service/venv/
+chat_service/app/__pycache__/
